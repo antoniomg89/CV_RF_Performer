@@ -7,6 +7,7 @@ Proceso el cual hace uso de la plantilla REFramework y automatiza:
 - Calcular el total en `EUR`
 - Inserta dicho total en el archivo `Vendors list.xlsx`.
 - Una vez ha procesado todos los elementos de la cola, copia el archivo `Vendors list.xlsx` a una nueva dirección.
+- Cierra sesión en ACME.
 
 ---
 
