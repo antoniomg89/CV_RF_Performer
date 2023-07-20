@@ -1,3 +1,15 @@
+## CV_RF_Performer
+Proceso el cual hace uso de la plantilla REFramework y automatiza:
+- Login en ACME.
+- Resetear datos de prueba.
+- Obtener un item de la cola.
+- Buscar facturas del vendedor asociado.
+- Calcular el total en `EUR`
+- Inserta dicho total en el archivo `Vendors list.xlsx`.
+- Una vez ha procesado todos los elementos de la cola, copia el archivo `Vendors list.xlsx` a una nueva dirección.
+
+---
+
 ### Documentation is included in the Documentation folder ###
 
 
